@@ -26,3 +26,7 @@
     font-weight: bolder;
     font-size: larger;
 }
+/* CSS for facilities */
+.cls1{
+    background-image: url(bg-Sample-image.jpg);
+}
